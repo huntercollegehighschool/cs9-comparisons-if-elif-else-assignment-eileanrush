@@ -29,6 +29,6 @@ if month == "November" or month == "April" or month == "June" or month == "Septe
 elif month == "January" or month == "March" or month == "May" or month == "July"  or month == "August" or month == "October" or month == "December":
   print("31")
 elif month == "February":
-  print("28")
+  print("28 or 29")
 else:
   print("not a month")
