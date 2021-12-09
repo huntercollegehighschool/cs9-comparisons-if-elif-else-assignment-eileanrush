@@ -31,4 +31,4 @@ elif number > 0:
 if number % 3 == 0:
   print("divisible by 3")
 else:
-  print("not divisble by 3")
+  print("not divisible by 3")
